@@ -1,0 +1,49 @@
+body {
+background-color: #b20000;
+  color: #000000;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  font-weight: 700px
+}
+
+div {
+  margin: 200 0px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  width: 200px;
+  margin: 0 auto;
+  text-align: left;
+}
+.bigfont {
+  font-size: 60px;
+}
+
+#id {
+  font-size: 100px;
+}
+
+p {
+  padding: 30px 400px 20px 400px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.imgsize {
+  height: 25%;
+  width: 25%;
+}
+
+.imgfloatleft {
+    float: left;
+}
+
+.imgfloatright {
+    float: right;
+}
